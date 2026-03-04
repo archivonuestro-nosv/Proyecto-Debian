@@ -1,6 +1,6 @@
 # programa1.py
-# Programa que incrementa un día a una fecha dada (versión simple)
-
+# Programa que incrementa un día a una fecha dada 
+# Incremento simple de un día
 print("Programa 1: Incrementar un día a una fecha")
 
 dia = int(input("Ingrese el día: "))
